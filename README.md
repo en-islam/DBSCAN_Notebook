@@ -1,6 +1,6 @@
 # Volcanic Activity Detection
 Authors 
-Myles Mason, John Wenskovitch, D. Sarah Stamps, Joshua Robert Jones, Mike Dye
+Myles Mason, John Wenskovitch, D. Sarah Stamps, Joshua Robert Jones, Mike Dye, Esha Islam
 
 # Abstract
 
